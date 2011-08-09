@@ -1,1 +1,7 @@
 This is simply a project from my CS471 class (Operating Systems).  The task was to create a mock UNIX file system using all the same methods and techniques as the real thing.
+
+h1. About me
+
+Email me: foltz.aaron at gmail.com
+Follow me: "@Aaron_Foltz":http://twitter.com/Aaron_Foltz
+Visit me: "Aaron Foltz":http://www.aaronfoltz.com
